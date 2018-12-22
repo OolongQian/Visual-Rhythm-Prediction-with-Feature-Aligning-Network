@@ -10,11 +10,6 @@
 <!--
 <img src="./doc/overview.jpg" align="center" style="width:100%">
 
-<figure class="half">
-    <img src="./doc/overview.jpg">
-    <img src="./doc/network.jpg">
-</figure>
-
 -->
 ## Authors
 
