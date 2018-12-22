@@ -48,7 +48,7 @@ We provide source code on [Github](https://github.com/zhiyong1997/Semantic-Align
 
 -->
 
-### Sample Usage
+## Sample Usage
 <!--
 
 <span style="font-size: 1.5em;">Our model can handle COCO, Flickr8k and Flickr30k dataset. For simplicity, we only present Flickr8k here. </span>
