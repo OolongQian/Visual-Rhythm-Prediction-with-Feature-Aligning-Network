@@ -1,6 +1,6 @@
 
 ## Abstract
-<span style="font-size: 1.5em;">In this project, we propose a data-driven visual rhythm prediction method, which overcomes the previous works' deficiency that predictions are made primarily by human-crafted hard rules. In our approach, we first extract features including original frames and their residuals, optical flow, scene change, and body pose. These visual features will be next taken into an end-to-end neural network as inputs.  Here we observe that there are some slight misaligning between features over the timeline and assume that this is due to the distinctions between how different features are computed. To solve this problem, the extracted features are aligned by an elaborately designed layer, which can also be applied to other models suffering from mismatched features, and boost performance. Then these aligned features are fed into sequence labeling layers implemented with BiLSTM \cite{bilstm} and CRF \cite{crf} to predict the onsets. Due to the lack of existing public training and evaluation set, we experiment on a dataset constructed by ourselves based on professionally edited Music Videos (MVs), and the F1 score of our approach reaches 79.6.</span>
+<span style="font-size: 1.5em;">In this project, we propose a data-driven visual rhythm prediction method, which overcomes the previous works' deficiency that predictions are made primarily by human-crafted hard rules. In our approach, we first extract features including original frames and their residuals, optical flow, scene change, and body pose. These visual features will be next taken into an end-to-end neural network as inputs.  Here we observe that there are some slight misaligning between features over the timeline and assume that this is due to the distinctions between how different features are computed. To solve this problem, the extracted features are aligned by an elaborately designed layer, which can also be applied to other models suffering from mismatched features, and boost performance. Then these aligned features are fed into sequence labeling layers implemented with BiLSTM and CRF to predict the onsets. Due to the lack of existing public training and evaluation set, we experiment on a dataset constructed by ourselves based on professionally edited Music Videos (MVs), and the F1 score of our approach reaches 79.6.</span>
 
 
 <img src="./doc/overview.pdf" align="center" style="width:100%">
@@ -69,11 +69,11 @@ We provide source code on [Github](https://github.com/zhiyong1997/Semantic-Align
 
 ## Bibtex
 <pre style="font-size: 1.5em;">
-@article{Lu2018SemanticAlignment,
-          title={Semantic Alignment for Hierarchical Image Captioning},
-          author={Lu, Sidi and Fang, Zhiyong and Sheng, Peiyao},
-          year={2018},
-          howpublished={\url{https://github.com/zhiyong1997/Semantic-Alignment-for-Hierarchical-Image-Captioning}}
+@article{Xie2019SemanticAlignment,
+          title={Visual Rhythm Prediction with Feature Aligning Network},
+          author={Xie, Yutong and Wang, haiyang and Hao, Yan and Xu, Zihao},
+          year={2019},
+          howpublished={\url{https://github.com/shsjxzh/Visual-Rhythm-Prediction-with-Feature-Aligning-Network}}
         }
 </pre>
 
