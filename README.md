@@ -100,7 +100,7 @@ We provide source code on [Github](https://github.com/zhiyong1997/Semantic-Align
 
 ## Bibtex
 <pre style="font-size: 1.5em;">
-@article{Xie2019SemanticAlignment,
+@article{Xie2019VisualRhythm,
           title={Visual Rhythm Prediction with Feature Aligning Network},
           author={Xie, Yutong and Wang, haiyang and Hao, Yan and Xu, Zihao},
           year={2019},
