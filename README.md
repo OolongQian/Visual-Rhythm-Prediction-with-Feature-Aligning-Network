@@ -81,8 +81,7 @@ We provide source code on ![Github](https://github.com/zhiyong1997/Semantic-Alig
 </pre>
 
 ## Example Result
-<!--
+<p style="text-align:center"><a href="https://youtu.be/jw03QvVVei4"><img src="https://img.youtube.com/vi/jw03QvVVei4/0.jpg" align="center" alt="IMAGE ALT TEXT HERE" width="75%" /></a></p>
 
-<img src="./assets/Screenshot from 2018-01-12 12-08-07.png" style="width:100%"/>
 
--->
+
