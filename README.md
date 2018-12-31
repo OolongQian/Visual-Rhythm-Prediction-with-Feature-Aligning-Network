@@ -33,6 +33,9 @@
 
 ## Code
 
+We provide source code on [Github](https://github.com/wanghaiyangMIT/rhythm-detection-opticalflowpure?tdsourcetag=s_pcqq_aiomsg), including our Rhythm Detector, some feature extractors like Optical Flow Extractor, and Music Onset Detector for obtaining the target label.
+
+<!--
 <span border="0" style="font-size: 1.5em;" >
 We provide source code on ![Github](https://github.com/zhiyong1997/Semantic-Alignment-for-Hierarchical-Image-Captioning), including:
 </span>
@@ -44,6 +47,8 @@ We provide source code on ![Github](https://github.com/zhiyong1997/Semantic-Alig
     <td><span style="font-size: 1.5em;"> 2. Visualization tool for attention mechanism.</span></td>
   </tr>
 </table>
+
+-->
 
 ## Sample Usage
 <!--
