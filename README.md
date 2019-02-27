@@ -25,7 +25,7 @@
 </table>
 
 ## Demo
-<span style="font-size: 1.5em;"> A introduction demo can be download from this [link](https://jbox.sjtu.edu.cn/link/view/2f2f1e8ea0f1464fb45b3fe71db68441)</span>
+<span style="font-size: 1.5em;"> A introduction demo can be download from this [link](https://jbox.sjtu.edu.cn/link/view/2f2f1e8ea0f1464fb45b3fe71db68441).</span>
 
 ## Code
 <span style="font-size: 1.5em;"> We provide source code on [Github](https://github.com/wanghaiyangMIT/rhythm-detection-opticalflowpure?tdsourcetag=s_pcqq_aiomsg), including our Rhythm Detector, some feature extractors like Optical Flow Extractor, and Music Onset Detector for obtaining the target label.</span>
