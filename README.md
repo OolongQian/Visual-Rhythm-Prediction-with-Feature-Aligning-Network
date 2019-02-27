@@ -27,7 +27,7 @@
 ## Demo
 <!--
 
-<p style="text-align:center"><a href="https://www.youtube.com/watch?v=GpUTlI-Dv-g"><img src="https://img.youtube.com/vi/GpUTlI-Dv-g/0.jpg" align="center" alt="IMAGE ALT TEXT HERE" width="75%" /></a></p>
+<span style="font-size: 1.5em;"> A introduction demo can be download from this [link] (https://jbox.sjtu.edu.cn/link/view/2f2f1e8ea0f1464fb45b3fe71db68441)</span>
 
 -->
 
